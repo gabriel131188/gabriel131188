@@ -54,3 +54,9 @@ Here are some ideas to get you started:
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
+- ▰▰▰▰▰▱+ | AWS
+- ▰▰▰▰▱▱+ | GCP
+- ▰▰▱▱▱▱+ | Azure
+- ▰▱▱▱▱▱+ | OCI
+- ▰▰▰▱▱▱+ | Sorte
+- ▰▰▰▰▰▰+ | Automação
